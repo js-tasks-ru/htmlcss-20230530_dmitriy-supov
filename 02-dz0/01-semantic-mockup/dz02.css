@@ -1,0 +1,56 @@
+header, .main, footer {
+    padding: 0 15px;
+    color: white;
+}
+
+ul {
+    margin: 0;
+}
+
+header {
+    background: red;
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.navbar {
+    background: orange;
+}
+.navbar ul {
+    padding: 20px 0;
+    text-align: center;
+}
+.navbar li {
+    display: inline-block;
+    font-size: medium;
+}
+
+.navbar a {
+    color: white;
+}
+
+.main {
+    background: green;
+    padding: 20px 10px;
+}
+
+.decimal_list {
+    list-style-type:decimal
+}
+
+.article {
+    background: blue;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+}
+
+.article_title {
+    margin-bottom:20px;
+    font-size: x-large;
+}
+footer {
+    background: blueviolet;
+    font-size: xx-large;
+    text-align: center;
+}
